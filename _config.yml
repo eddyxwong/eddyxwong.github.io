@@ -15,8 +15,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://eddyxwong.github.io/klise/"     #
-baseurl: "https://eddyxwong.github.io/klise/" #
+url:      #
+baseurl:  #
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

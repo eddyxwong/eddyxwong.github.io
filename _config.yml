@@ -19,7 +19,7 @@ author:
 
 # URL settings
 url: "https://klise.now.sh" #
-baseurl: https://eddyxwong.github.io/klise/
+baseurl: https://eddyxwong.github.io/
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

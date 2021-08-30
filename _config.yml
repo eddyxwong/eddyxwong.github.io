@@ -1,7 +1,6 @@
 # Site settings
-title: Klise Theme # site title
+title: eddy wong's blog! # site title
 lang: en-US # default lang
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
@@ -52,7 +51,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 5
+number_of_posts: 4
 
 # Build settings
 # theme: klise

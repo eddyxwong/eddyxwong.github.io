@@ -37,9 +37,11 @@ layout: compress
           </header>
           <h1></h1>
           <p class="phrase"> 😕 <b> {{ page.title }} </b>is a work in progress, come back later!</p>
+          {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=4 h_max=4 %}
           <a class="solution" href="{{ site.url }}">back home</a>
         </div>
       </div>
+
     </main>  
     {% include footer.html %}
   </div>

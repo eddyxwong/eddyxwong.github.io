@@ -1,0 +1,45 @@
+[
+  
+    {
+      "title"    : "Welcome to Jekyll!",
+      "tags"     : "",
+      "url"      : "/welcome-to-jekyll/",
+      "date"     : "2020-08-29 12:29:20 +1000"
+    } ,
+  
+    {
+      "title"    : "Cara ribet memperbarui forked repo",
+      "tags"     : "tips, git, software",
+      "url"      : "/cara-memperbarui-fork-repository/",
+      "date"     : "2020-01-29 05:00:00 +1100"
+    } ,
+  
+    {
+      "title"    : "What is a shell? 🐚 adalah kerang ajaib?",
+      "tags"     : "unix/linux, cli",
+      "url"      : "/apa-itu-shell/",
+      "date"     : "2020-01-25 15:58:47 +1100"
+    } ,
+  
+    {
+      "title"    : "How this site was born 👶",
+      "tags"     : "blog, netlify, jekyll, github",
+      "url"      : "/how-this-site-was-made/",
+      "date"     : "2018-09-28 12:45:47 +1000"
+    } ,
+  
+    {
+      "title"    : "Python Notes from Intro to Machine Learning",
+      "tags"     : "python, machine-learning",
+      "url"      : "/python-notes-from-Intro-to-machine-learning/",
+      "date"     : "2018-04-14 13:00:00 +1000"
+    } ,
+  
+    {
+      "title"    : "React Component with Dot Notation",
+      "tags"     : "javascript, react",
+      "url"      : "/react-component-with-dot-notation/",
+      "date"     : "2018-04-08 02:04:00 +1000"
+    } 
+  
+]

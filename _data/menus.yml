@@ -6,9 +6,9 @@
   url: /posts/
   external: false
 
-- title: projects
-  url: /projects/
-  external: false
+# - title: projects
+#   url: /projects/
+#   external: false
   
 # - title: unreleased
 #   url: /unreleased/

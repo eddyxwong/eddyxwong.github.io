@@ -8,14 +8,14 @@ $base-line-height: 1.85;
 
 // Font weight
 // $light-weight: 300; // uncomment if necessary
-$normal-weight: 400;
-$bold-weight: 700;
+$normal-weight: 500;
+$bold-weight: 900;
 // $black-weight: 900; // uncomment if necessary
 
 //Light Colors
 $text-base-color: #434648;
-$text-link-blue: #003fff;
-$text-link-blue-active: #0036c7;
+$text-link-blue: rgb(94, 163, 186);
+$text-link-blue-active: lightblue;
 
 $black: #0d122b;
 $light: #ececec;
@@ -60,4 +60,4 @@ $on-widescreen: 1152px;
 
 // Import sass files
 @import 'klise/fonts', 'klise/base', 'klise/layout', 'klise/post',
-  'klise/miscellaneous', 'klise/syntax', 'klise/dark', 'klise/social-links';
+  'klise/miscellaneous', 'klise/syntax', 'klise/dark';

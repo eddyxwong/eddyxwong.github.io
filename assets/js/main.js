@@ -3,6 +3,7 @@
   const body = document.body;
   const lamp = document.getElementById("mode");
 
+
   const toggleTheme = (state) => {
     if (state === "dark") {
       localStorage.setItem("theme", "light");

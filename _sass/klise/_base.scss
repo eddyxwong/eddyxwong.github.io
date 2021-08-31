@@ -378,7 +378,7 @@ mark,
 
     &:hover {
       .icon {
-        fill: $text-link-blue;
+        fill: $text-link-blue-active;
       }
     }
     &:hover:before {
@@ -386,6 +386,10 @@ mark,
       display: inline-block;
       transform: translate3d(0, 0, 0);
       white-space: nowrap;
+      -webkit-transform: translate3d(0, 0, 0);
+      -moz-transform: translate3d(0, 0, 0);
+      -ms-transform: translate3d(0, 0, 0);
+      -o-transform: translate3d(0, 0, 0);
     }
     &:before {
       content: attr(data-title);
@@ -396,7 +400,7 @@ mark,
       margin: 0 auto;
       font-size: 13px;
       padding: 3px 10px;
-      background: $text-link-blue;
+      background: $text-link-blue-active;
       color: #fff;
       border-radius: 2px;
       height: 22px;
@@ -406,6 +410,10 @@ mark,
         -webkit-transform 150ms linear;
       transform: translate3d(0, -8px, 0);
       z-index: 99;
+      -webkit-transform: translate3d(0, -8px, 0);
+      -moz-transform: translate3d(0, -8px, 0);
+      -ms-transform: translate3d(0, -8px, 0);
+      -o-transform: translate3d(0, -8px, 0);
     }
     &:after {
       content: '';
